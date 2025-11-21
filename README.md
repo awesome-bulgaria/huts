@@ -1,4 +1,4 @@
 # Huts
-Неофициален регисър и индекс на всички български хижи. Включва информация за локация и метаданни.
+Неофициален регисър и индекс на всички планински хижи в България, включва информация за локация и метаданни.
 
-Unofficial register and index of all bulgarian huts. Includes location and metadata information.
+An unofficial registry and index of all mountain huts in Bulgaria, including location details and metadata.
